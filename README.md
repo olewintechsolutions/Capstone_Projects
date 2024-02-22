@@ -1,2 +1,2 @@
 # Capstone_Projects
-BlockChain Application_ 1
+BlockChain Applications
